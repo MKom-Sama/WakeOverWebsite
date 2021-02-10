@@ -1,5 +1,5 @@
 # WakeOverWebsite
-Arduino Code that lets you wake your PC from anywhere when you open the site.  WOW for short :) 
+Arduino Code that lets you turn your PC on from anywhere when you open the site.  WOW for short :) 
 
 * Website is on port 80 once accessed magic packets will be sent from the arduino to the network.
 * Change the target Mac Address and you're good to go.
