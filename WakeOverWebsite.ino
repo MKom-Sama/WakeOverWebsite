@@ -27,7 +27,7 @@ void loop() {
             client.println();
             client.println("<!DOCTYPE HTML>");
             client.println("<html>");
-            client.println("<h1>Remote Power </h1>");
+            client.println("<h1>Remote Power uwu </h1>");
             client.println("</html>");
             SendWOLMagicPacket(g_TargetMacAddress);
             break;
