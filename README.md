@@ -7,4 +7,8 @@ Arduino Code that lets you turn your PC on from anywhere when you open the site.
 
 *NB* Make sure the Ethernet.h is V1.1.1
 
+### If you have any ideas or want to contribute feel free to hit me up .
 
+**Instagram** : https://www.instagram.com/mkom_sama/ .
+
+**Discord** : `MKom_Sama#8043` .
